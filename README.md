@@ -1,4 +1,3 @@
 # Fast and high-fidelity composite gates in superconducting qubits: Beating the Fourier leakage limit
 Simulation code accompanying the results shown in (...paper).
-In order to verify the results you should download the files CP_Functions and Qtip code and place them in the same folder.
-Then just run Qtip code where a prepared example is given at the end of the notebook for a complete population transfer.
+In order to verify the results downloading the ipynb file and running all the cells is enough. The last part of the file consinst of the different comparisons, including a measure of the convergence of our approach.
